@@ -234,6 +234,10 @@ form
 	background-color: #000000;
 	color: #FFFFFF;
 	border: 2px solid #FFFFFF;
+	nav a:link 
+	{
+		color: #FFFFFF;
+	}
 }
 
 
