@@ -258,7 +258,7 @@ form
 		font-size: 85%;
 		padding-left: 10px;
 		padding-right: 10px;
-		padding-bottom: 40px;
+		padding-bottom: 50px;
 	}
 	nav 
 	{
@@ -288,7 +288,7 @@ form
 		font-size: 100%;
 		margin-top: 0px;
 		border: 2px solid black;
-		width: 500px;
+		width: 550px;
 		height: 650px;
 	}
 	footer
